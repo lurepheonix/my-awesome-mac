@@ -14,13 +14,16 @@ Some parts of this list may actually sound stupid, but it is deliberately made s
 | ForkLift        | The most balanced file manager for Mac          | ✅       | Paid. Requires license purchase                           |
 | Balance Lock    | Fix headphone balance                           | ⭐️     | Only if you have bugs with headphone balance going random |
 | Amphetamine     | Prevent your Mac from sleeping                  | ⭐️     |                                                           |
+| IINA            | mpv-based media player for Mac                  | ✅       | Better use for videos                                     |
+| Vox             | Audio player                                    | ✅       | Supports library, FLAC                                    |
 
 ## Web
-| Name          | Description                           | Priority | Notes                    |
-| ------------- | ------------------------------------- | -------- | ------------------------ |
-| Google Chrome | The most used browser on the Internet | ⭐️     |                          |
-| Transmission  | Simple and native torrent client      | ⭐️     |                          |
-| Outline VPN   | Secure and simple VPN                 | ⭐️     | Requires your own server |
+| Name          | Description                                      | Priority | Notes                    |
+| ------------- | ------------------------------------------------ | -------- | ------------------------ |
+| Google Chrome | The most used browser on the Internet            | ⭐️     |                          |
+| Orion         | Webkit-based browser with wide extension support | ⭐️     |                          |
+| Transmission  | Simple and native torrent client                 | ⭐️     |                          |
+| Outline VPN   | Secure and simple VPN                            | ⭐️     | Requires your own server |
 
 ## Messaging
 | Name     | Description                            | Priority |
